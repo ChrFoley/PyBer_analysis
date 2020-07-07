@@ -39,7 +39,7 @@ Also within the analysis is a breakdown of time, showing utilization rates durin
 
 ### Results
 
-   results from this initial data analysis show that while there are lower densities of rides and drivers in rural areas fares and drivers fare averages where significantly higher in these rural areas. This primarily shows  Driver density does not mean that there is higher rates for fares or driver fares. Ultimately to determine each profit margin, the data set needs to be expanded and more data added including mileage per ride, time a driver is dedicated, and time a driver is idle or not being utilized.
+   results from this initial data analysis show that while there are lower densities of rides and drivers in rural areas fares and drivers fare averages where significantly higher in these rural areas. This primarily shows  driver density does not mean that there is higher rates for fares or driver fares. Ultimately to determine each profit margin, the data set needs to be expanded and more data added including mileage per ride, time a driver is dedicated, and time a driver is idle or not being utilized.
 
 ### Challenges and Difficulties Encountered
 
@@ -50,19 +50,19 @@ Also within the analysis is a breakdown of time, showing utilization rates durin
 
 * Data analysis
 
-    understanding the boundaries of the data and the skills that have been taught the data set was fine. but a true analysis of the P/L utilization, profit for time dedicated is not possible. that said the exercise was great in regards to repetition.
+    Understanding the boundaries of the data and the skills that have been taught the data set was fine. but a true analysis of the P/L utilization, profit for time dedicated is not possible. that said the exercise was great in regards to repetition.
 
 
 ## Recommendations and Next Steps
 
 ### Recommendations for Future Analysis
 
-  Look at utilization rates, how often each driver is active
-  look at the population, what percent uses ride share, drivers as a percent of population
-  look at the cost of the fare, compared to miles traveled
-  look at daily times to see when the ride service was utilized most
-  Look at the length of time a driver was dedicated with a fare
-  identify the number of repeat users and new users, including frequency of use.
+  - Look at utilization rates, how often each driver is active
+  - Look at the population, what percent uses ride share, drivers as a percent of population
+  - Look at the cost of the fare, compared to miles traveled
+  - Look at daily times to see when the ride service was utilized most
+  - Look at the length of time a driver was dedicated with a fare
+  - identify the number of repeat users and new users, including frequency of use.
 
 
 
