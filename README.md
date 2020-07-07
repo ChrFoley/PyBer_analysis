@@ -23,7 +23,8 @@ Also within the analysis is a breakdown of time, showing utilization rates durin
     - city_data.csv which identifies the city name, the type of city, number of drivers in each.
     - ride_data.csv which breaks down the individual rides which includes, ride id, fare, city, and date.
 
-    Merging the two datasets allows for the ride data to be built into one unified dataframe and subsequently broken down into a usable product. Further breaking down the dataset, a new dataframe was built to show the five previously identified (review under analysis above) data points, the result is shown in fig 1. below.
+   Merging the two datasets allows for the ride data to be built into one unified dataframe and subsequently broken down into a usable product. Further breaking down the dataset, a new dataframe was built to show the five previously identified (review under analysis above) data points, the result is shown in fig 1. below.
+    
 
 ![FIG 1.](https://github.com/ChrFoley/PyBer_analysis/blob/master/Analysis/Summary_breakdown.PNG) 
 
@@ -33,7 +34,7 @@ Also within the analysis is a breakdown of time, showing utilization rates durin
  
  ![FIG 2.](https://github.com/ChrFoley/PyBer_analysis/blob/master/Analysis/PyBer_Challenge_fare_summary.png) 
  
-    Easily seen in this chart is the fact that each city type shows correlation with population density and the amount earned in total fares. for both the urban and suburban types there is a discernible increase throughout the time period, while ride totals in the rural areas remained relatively constant. 
+   Easily seen in this chart is the fact that each city type shows correlation with population density and the amount earned in total fares. for both the urban and suburban types there is a discernible increase throughout the time period, while ride totals in the rural areas remained relatively constant. 
      
 
 ### Results
